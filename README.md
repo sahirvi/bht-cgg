@@ -1,5 +1,5 @@
 # Computergrafik Grundlagen
-**Übungsprojekt im Sommersemester 2021 (3. Studienplansemester)**
+**Übungsprojekt im Wintersemester 2021 / 2022 (3. Studienplansemester)**
 
 _Berliner Hochschule für Technik_  
 _Dozent: Prof. Dr. Henrik Tramberend_
@@ -35,7 +35,7 @@ Image
 
 ### English
 # Principles of Computer Graphics
-**Exercise project of summer semester 2021 (3th study plan semester)**
+**Exercise project of winter semester 2021 / 2022 (3th study plan semester)**
 
 _Berlin University of Applied Sciences and Technology_  
 _Lecturer: Prof. Dr. Henrik Tramberend_
